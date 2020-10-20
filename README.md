@@ -161,5 +161,5 @@ All three models was trained in world 1-1, learning rate was always 1e-5. The ne
 
 <p align="left">
     <img src="history/history_MA_Compare.png" width="600">
-	<img src="demo/video_MA_1-1_NOENTROPY.gif" width="300"></br>
+	<img src="demo/video_MA_1-1_NOENTROPY.gif" width="200"></br>
 </p>
